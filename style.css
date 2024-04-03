@@ -1,0 +1,24 @@
+.container {
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 80%;
+    max-width: 600px;
+    text-align: center;
+  }
+  .card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #f9f9f9;
+  }
+  .card img {
+    max-width: 100px;
+    max-height: 100px;
+    margin-bottom: 10px;
+  }
+  .error {
+    color: red;
+    font-weight: bold;
+  }
